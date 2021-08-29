@@ -2,7 +2,7 @@
 
 GitHub Repo: [https://github.com/jbryant4/duoLOL] <br>
 
-Deployed at: [https://duolol.herokuapp.com/](https://duolol.herokuapp.com/) <br>
+View Live Website at: [https://duolol.herokuapp.com/](https://duolol.herokuapp.com/) <br>
 
 SAMPLE LOGIN INFORMATION <br>
 Email: demoUser@demo.com <br>
